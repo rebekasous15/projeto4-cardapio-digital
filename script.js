@@ -10,7 +10,7 @@ alert (`Bem-vindo ao restaurante`)
 let nome = prompt(`Qual seu nome?`)
 let estudante = prompt("Você é estudante? (s/n)").toLowerCase()
 
-let pedido1 = parseInt(prompt(`faça seu preimeiro pedido
+let pedido1 = parseInt(prompt(`faça seu primeiro pedido
      Menu 
      (1) Hambúrguer - R$ 20
      (2) Pizza - R$ 35
